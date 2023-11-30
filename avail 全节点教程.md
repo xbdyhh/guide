@@ -20,9 +20,9 @@ https://docs.availproject.org/
 sudo apt-get update
 sudo apt install build-essential
 cd ~
-wget https://github.com/availproject/avail/releases/download/v1.7.2/data-avail-ubuntu-2204-amd64.tar.gz
-tar -zxvf data-avail-ubuntu-2204-amd64.tar.gz
-sudo mv data-avail-ubuntu-2204-amd64 /usr/local/bin/data-avail
+wget https://github.com/availproject/avail/releases/download/v1.8.0.3/x86_64-ubuntu-2204-data-avail.tar.gz
+tar -zxvf x86_64-ubuntu-2204-data-avail.tar.gz
+sudo mv data-avail /usr/local/bin/data-avail
 sudo chmod +x /usr/local/bin/data-avail
 ```
 
