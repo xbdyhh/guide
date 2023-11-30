@@ -35,7 +35,7 @@ data-avail -V
 你应该看到
 
 ```
-data-avail 1.7.2-0fd1b21757c
+data-avail 1.8.3-a0820931850
 ```
 
 ### 通过预编译的程序运行节点
